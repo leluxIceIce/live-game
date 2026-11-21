@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "objects": [
+    {
+      "id": "felix-room",
+      "label": "Felix’ Raum",
+      "asset": "start-room.glb",
+      "sha256": "45f07cf32c7847ea1150d79007f800abd4d39abea1000898b11e08691a9871fc"
+    }
+  ],
+  "start": {
+    "objectId": null,
+    "surfacePoint": null,
+    "avatarSizeM": 1.75
+  }
+}
